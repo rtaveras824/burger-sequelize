@@ -1,0 +1,32 @@
+{
+  "name": "burger-sequelize",
+  "version": "15.0.0",
+  "description": "A burger app with sequelize. What more do you want from me.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtaveras824/burger-sequelize.git"
+  },
+  "keywords": [
+    "Burger",
+    "Sequelize",
+    "Express"
+  ],
+  "author": "Reuben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtaveras824/burger-sequelize/issues"
+  },
+  "homepage": "https://github.com/rtaveras824/burger-sequelize#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.3"
+  }
+}
